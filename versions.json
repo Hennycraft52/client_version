@@ -1,5 +1,5 @@
 {
   "mc_version": "1.20.1",
   "fabric_loader_version": "0.14.21",
-  "mods": ["fabric-api", "sodium", "lithium"]
+  "mods": ["fabric-api", "sodium", "owo-lib"]
 }
